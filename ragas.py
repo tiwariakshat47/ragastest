@@ -32,7 +32,8 @@ from ragas import evaluate
 from datasets import Dataset
 import os
 
-#os.environ["OPENAI_API_KEY"] = "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"
+#os.environ["OPENAI_API_KEY"] = "sk- VZwcse 6Tq9R FZFZp uNoyT3BlbkFJeZtWbkJ HDjVlmdumly 8k"
+#remove spaces and thats the api key
 os.environ["OPENAI_API_KEY"] = "PUT THE API KEY HERE"
 
 # prepare your huggingface dataset in the format
